@@ -1,0 +1,20 @@
+11:08:01:126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:08:01:132 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:08:01:137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:08:01:137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:08:01:138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:08:01:141 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+11:08:05:500 [main] INFO  api.testCases.UserTests - *******Creating User*********
+11:08:06:628 [main] INFO  api.testCases.UserTests - *******User Created*********
+11:08:06:630 [main] INFO  api.testCases.UserTests - *******Reading User Info*********
+11:08:07:645 [main] INFO  api.testCases.UserTests - *******User info displayed*********
+11:08:07:647 [main] INFO  api.testCases.UserTests - *******Updating User*********
+11:08:09:759 [main] INFO  api.testCases.UserTests - *******User is Updated*********
+11:08:09:761 [main] INFO  api.testCases.UserTests - *******Deleting User*********
+11:08:10:828 [main] INFO  api.testCases.UserTests2 - *******Creating User*********
+11:08:11:845 [main] INFO  api.testCases.UserTests2 - *******User Created*********
+11:08:11:848 [main] INFO  api.testCases.UserTests2 - *******Reading User Info*********
+11:08:12:889 [main] INFO  api.testCases.UserTests2 - *******User info displayed*********
+11:08:12:891 [main] INFO  api.testCases.UserTests2 - *******Updating User*********
+11:08:15:063 [main] INFO  api.testCases.UserTests2 - *******User is Updated*********
+11:08:15:066 [main] INFO  api.testCases.UserTests2 - *******Deleting User*********
